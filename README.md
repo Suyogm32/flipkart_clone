@@ -2,7 +2,7 @@
 # Django E-commerce Flipkart Clone
 ## Project Summary
 
-The website displays products. Users can add and remove products to/from their cart while also specifying the quantity of each item. They can then enter their address and choose Stripe to handle the payment processing.
+This project deals with developing a Virtual website 'E-commerce Website'. It provides the user with a list of the various products available for purchase in the store. For the convenience of online shopping, a shopping cart is provided to the user.
 
 ---
 E-commerce website built with Django. It has following functionality:
